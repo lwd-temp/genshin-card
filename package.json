@@ -14,7 +14,7 @@
   "dependencies": {
     "b3b": "0.0.1",
     "compression": "^1.7.4",
-    "express": "^4.17.1",
+    "express": "^4.19.2",
     "fontmin": "^0.9.8",
     "md5": "^2.3.0",
     "mime-types": "^2.1.28",

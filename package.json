@@ -14,13 +14,13 @@
   "dependencies": {
     "b3b": "0.0.1",
     "compression": "^1.7.4",
-    "express": "^4.17.1",
-    "fontmin": "^0.9.8",
+    "express": "^4.19.2",
+    "fontmin": "^0.9.9",
     "md5": "^2.3.0",
     "mime-types": "^2.1.28",
     "node-cache": "^5.1.2",
     "pino": "^6.10.0",
-    "pug": "^3.0.0",
+    "pug": "^3.0.2",
     "request": "^2.88.2"
   },
   "devDependencies": {
